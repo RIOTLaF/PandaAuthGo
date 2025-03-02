@@ -1,4 +1,4 @@
-package main
+package PandaAuth
 
 import (
 	"crypto/sha256"
